@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Ecom.me</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Search All Products…</string>
+    <string name="whats_new">What\'s New</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_dialog">This app displays top tracks grabbed from last.fm, you can search an artist\'s top track and save any track to a favorite list.</string>
+    <string name="close">Close</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy_dialog">Our policy is that we will keep all of your information confidential because we
+        really don\'t give a crap about your information anyway.
+    </string>
+    <string name="product_image_desc">product image</string>
+    <string name="home">Home</string>
+    <string name="search_for">Search for:</string>
+    <string name="no_connection">No Connection</string>
+    <string name="no_pricing">No price listed.</string>
+    <string name="fav">fav</string>
+    <string name="favorites">Favorites</string>
+    <string name="manufacturer">Manufacturer:</string>
+    <string name="brand">Brand:</string>
+    <string name="model">Model:</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="one">1</string>
+    <string name="dimensions_label">Dimensions:</string>
+    <string name="weight_label">Weight:</string>
+    <string name="length_label">Length:</string>
+    <string name="width_label">Width:</string>
+    <string name="height_label">Height:</string>
+    <string name="features">Features:</string>
+    <string name="product_detail">Track Detail</string>
+    <string name="add_to_favorites">Add To Favorites</string>
+    <string name="topTracks">TopTracks</string>
+    <string name="TopTracks">toptrack</string>
+    <string name="favorite">favorites</string>
+    <string name="playlist">playlist</string>
+</resources>
